@@ -1,4 +1,4 @@
 hola-mundo
 ==========
 
-Mi primer repositorio de git hub
+Mi primer repositorio de git hub para uso publico
